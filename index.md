@@ -1,7 +1,7 @@
 ---
 layout: col-sidebar
 title: OWASP Machine Learning Security Top Ten
-tags: mltop10 related-tag
+tags: mltop10 related-tag con-tag
 type: documentation
 altfooter: true
 level: 2
