@@ -3,7 +3,7 @@ title: Contributors
 layout: null
 tab: true
 order: 4
-tags: example-tag
+tags: con-tag
 ---
 
 Thanks goes to these wonderful people
